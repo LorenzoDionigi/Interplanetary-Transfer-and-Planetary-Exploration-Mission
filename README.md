@@ -13,3 +13,7 @@ Lorenzo Dionigi,
 Bouchra Bouras,
 Giuseppe Antonio Zito,
 Francesco Paolo Vacca
+
+
+Supervisor:
+Prof. Camilla Colombo
