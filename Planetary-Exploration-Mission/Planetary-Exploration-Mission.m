@@ -18,7 +18,7 @@ clc; clearvars; close all;
 
 
 
-addpath('./functions/');
+addpath('./Functions/');
 format long
 %% NOMINAL ORBIT
 %initial values orbital elements
