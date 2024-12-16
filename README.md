@@ -1,4 +1,4 @@
-Orbital Mechanics project
+# Orbital Mechanics project
 
 Interplanetary Transfer and Planetary Exploration Mission:
 
