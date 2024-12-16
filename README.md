@@ -6,5 +6,5 @@ Performed a preliminary analysis of an interplanetary transfer between Saturn an
 Authors:
 Lorenzo Dionigi,
 Bouchra Bouras,
-Giuseppe Antonio Zito
+Giuseppe Antonio Zito,
 Francesco Paolo Vacca
